@@ -23,7 +23,7 @@ Las notebooks con ejercicios resueltos se pueden ver [aca](https://github.com/ja
 
 <br>
 
-Este es un arma de doble filo, desde los temas es mas completo que el anterior, pero.... el autor es un fanatico del minimalismo por lo que implementa todo desde 0 en python. En la practica nadie escribe los algoritmos desde 0, utiliza librerias como sklearn. Igualmente muy recomendable para leer tener una intuicion sobre la teoria.
+Este es un arma de doble filo, desde los temas es mas completo que el anterior, pero.... el autor es un fanatico del minimalismo por lo que implementa todo desde 0 en python. En la practica nadie escribe los algoritmos desde 0, utiliza librerias como sklearn. Igualmente muy recomendable para leer y entender intuitivamente la teoria de la mayoria de los temas que se ven en los cursos de data science.
 
 <img src="https://i.imgur.com/UMSKVmi.png" alt="drawing" width="350"/>
 
