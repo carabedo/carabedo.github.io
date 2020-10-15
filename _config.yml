@@ -1,0 +1,18 @@
+# Setup
+url:              https://muydipalma.github.io/home
+paginate:         1
+baseurl: ''
+heading_anchors: true
+
+# About and contact
+author:
+  name:           'Fernando Carabedo'
+  url:            https://twitter.com/muydipalma
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Custom vars
+version:          3.0.0
