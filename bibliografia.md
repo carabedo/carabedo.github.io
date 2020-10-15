@@ -7,6 +7,7 @@ title: Bibliografia
 
 <br>
 
+La biblia del machine learning, toda la matematica detras de cada algoritmo. De dificil lectura si uno nunca vio un sumatoria, recomendado para acompañar el curso o para mirar al finalizar.
 
 <img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
 
