@@ -40,7 +40,7 @@ Para bajar este u otros libros:
 
 <br>
 
-La biblia del machine learning, toda la matematica detras de cada algoritmo. De dificil lectura si uno nunca vio un sumatoria, recomendado para acompañar el curso o para mirar al finalizar.
+La biblia del machine learning, toda la matematica detras de cada algoritmo. De dificil lectura si uno nunca vio una sumatoria, recomendado para acompañar el curso o para mirar al finalizar.
 
 <br>
 
