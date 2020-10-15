@@ -3,17 +3,6 @@ layout: page
 title: Bibliografia
 ---
 
-## An Introduction to Statistical Learning 
-
-<br>
-
-La biblia del machine learning, toda la matematica detras de cada algoritmo. De dificil lectura si uno nunca vio un sumatoria, recomendado para acompañar el curso o para mirar al finalizar.
-
-<img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
-
-Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-
-Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python: [Repo](https://github.com/JWarmenhoven/ISLR-python)
 
 
 
@@ -25,6 +14,7 @@ Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios 
 
 <br>
 
+Ideal para empezar! Sin matematica muy dura.
 
 Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
 
@@ -43,6 +33,21 @@ Con sus ejercicios resueltos [aca](https://github.com/joelgrus/data-science-from
 Para bajar este u otros libros:
 
 [Genesis Library](https://libgen.lc/)
+
+## An Introduction to Statistical Learning 
+
+<br>
+
+La biblia del machine learning, toda la matematica detras de cada algoritmo. De dificil lectura si uno nunca vio un sumatoria, recomendado para acompañar el curso o para mirar al finalizar.
+
+<br>
+
+<img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
+
+Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python: [Repo](https://github.com/JWarmenhoven/ISLR-python)
+
 
 ## Papers
 
