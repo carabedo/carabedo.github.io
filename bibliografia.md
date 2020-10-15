@@ -14,14 +14,16 @@ title: Bibliografia
 
 <br>
 
-Ideal para empezar! Sin matematica muy dura.
+Ideal para empezar! Sin matematica muy dura, con ejemplos de python del trabajo diario de la exploracion de datos y la implementacion de los algoritmos mas basicos de machine learning.
 
-Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
+Las notebooks con ejercicios resueltos se pueden ver [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 ## Data Science from Scratch, 2nd Edition
 
 <br>
+
+Este es un arma de doble filo, desde los temas es mas completo que el anterior, pero.... el autor es un fanatico del minimalismo por lo que implementa todo desde 0 en python. En la practica nadie escribe los algoritmos desde 0, utiliza librerias como sklearn. Igualmente muy recomendable para leer tener una intuicion sobre la teoria.
 
 <img src="https://i.imgur.com/UMSKVmi.png" alt="drawing" width="350"/>
 
