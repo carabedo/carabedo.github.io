@@ -5,7 +5,7 @@ title: Regresion Logistica
 
 <br>
 
-Miremos un problema simple de clasificacion, donde tengo datos con una sola variable explicativa y mi variable objetivo a predecir puede ser de dos clases.
+Miremos un problema simple de clasificacion, donde tengo datos con una sola variable explicativa y mi variable objetivo a predecir puede ser de dos clases (0,1).
 
 
 ```python
@@ -23,7 +23,7 @@ Visualizando los datos, nos damos cuenta que no es lo eficiente ajustar esto con
 
 
 Como en la regresion lineal, debemos definir una funcion de costo para mis parametros y minizarla utilizando algun metodo iterativo como es el caso de descenso por gradiente. De esta manera encontraremos los parametros de la funcion sigmoide que mejor describan mis datos.
-
+<br>
 ## Regresion Logistica desde 0
 <br>
 
@@ -105,9 +105,9 @@ class logisticreg:
     def __loss(self, h, y):
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()                
 ```
-
+<br>
 Ahora podemos ver como van cambiando los parametros de la funcion sigmoide a medida que vamos iterando la minizacion de la funcion de costo:
-
+<br>
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=900 width=750 ></iframe>
 
 Como se ve para la iteracion i=100000, la sigmoide se ajusta muy bien a los datos, lo que nos permite predecir a que clase pertenece una nueva observacion.
