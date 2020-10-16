@@ -17,12 +17,6 @@ Tal vez es mas facil decir que NO es data science.
 
 ## Que NO es Data Science?
 
-### You need a Ph.D. in statistics to be a data scientist
-
-No, you don’t. Data science involves crunching numbers to get interesting insights, and it often involves the use of statistics to better understand the results. When it comes to performing some advanced tasks such as machine learning and deep learning, sure, an advanced knowledge of statistics helps. But that does not imply that people who do not have a degree in maths or statistics cannot become expert data scientists.
-
-Today, organizations are facing a severe shortage of data professionals capable of leveraging the data to get useful business insights. This has led to the rise of citizen data scientists – meaning professionals who are not experts in data science, but can use the data science tools and techniques to create efficient data models. These data scientists are no experts in statistics and maths, they just know the tool inside out, ask the right questions, and have the necessary knowledge of turning data into insights.
-
 ### No es algo nuevo que esta de moda:
 
 This is probably the most common misconception. Many tend to forget that although ‘data science’ is a recently coined term, this field of study is a cumulation of decades of research and innovation in statistical methodologies and tools. It has been in use since the 1960s or even before – just that the scale at which it was being used then was small. Back in the day, there were no ‘data scientists’, but just statisticians and economists who used the now unknown terms such as ‘data fishing’ or ‘data dredging’. Even the terms ‘data analysis’ and ‘data mining’ only went mainstream in the 1990s, but they were in use way before that period.
@@ -49,3 +43,9 @@ Yes, there are a lot of data scientists who also understand programming and know
 The infamous data science Venn diagram teases the idea of an individual who knows how to write code, hack incredibly complex systems, build an efficient machine learning platform from scratch and do the occasional data monitoring and translation on the side. In reality, not all your data scientists are going to be able to do Bayesian methods and code in Java.
 
 Assess what your business needs and what your data calls for before you choose your data scientists based on a wide variety of skills and experience. All data science roles are different, as is everything else listed in that Venn diagram you love so much.
+
+### No es ser un cientifico:
+
+No, you don’t. Data science involves crunching numbers to get interesting insights, and it often involves the use of statistics to better understand the results. When it comes to performing some advanced tasks such as machine learning and deep learning, sure, an advanced knowledge of statistics helps. But that does not imply that people who do not have a degree in maths or statistics cannot become expert data scientists.
+
+Today, organizations are facing a severe shortage of data professionals capable of leveraging the data to get useful business insights. This has led to the rise of citizen data scientists – meaning professionals who are not experts in data science, but can use the data science tools and techniques to create efficient data models. These data scientists are no experts in statistics and maths, they just know the tool inside out, ask the right questions, and have the necessary knowledge of turning data into insights.
