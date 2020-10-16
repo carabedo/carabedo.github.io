@@ -17,11 +17,20 @@ Tal vez es mas facil decir que NO es data science.
 
 ## Que NO es Data Science?
 
-### No es algo nuevo que esta de moda:
+### No es algo nuevo:
 
-This is probably the most common misconception. Many tend to forget that although ‘data science’ is a recently coined term, this field of study is a cumulation of decades of research and innovation in statistical methodologies and tools. It has been in use since the 1960s or even before – just that the scale at which it was being used then was small. Back in the day, there were no ‘data scientists’, but just statisticians and economists who used the now unknown terms such as ‘data fishing’ or ‘data dredging’. Even the terms ‘data analysis’ and ‘data mining’ only went mainstream in the 1990s, but they were in use way before that period.
+Si bien hoy todo el mundo habla de data science, machine learning, inteligencia artificial como la solucion a todo. Data science es un rejunte de años y años de investigacion en el desarrollo de metodos y herramientas estadisticas. 
 
-Data Science’s rise to fame has coincided with the exponential rise in the amount of data being generated every minute. The need to understand this information and make positive use of it led to an increase in the demand for data science. Now with Big Data and Internet of Things going wild, the rate of data generation and the subsequent need for its analysis will only increase. So if you think data science is a fad that will go away soon, think again.
+* Cuadrados minimos (1805)
+* Knn (1967)
+* Random Forest (1995)
+* Xgboost (2014)
+* Lightgbm (2017)
+* Catboost (2017)
+* Yolo 3 (2018)
+* GPT-3 (2020)
+
+Pero entonces, por que aparece recien? La respuesta es el volumen de los datos en las ultimas decadas la aculumacion y produccion exponencial de datos, permite utilizar todas esas herramientas estadisticas en problemas concretos. Data Science aparace por la necesidad de administrar y entender toda esta informacion. Con el aumento de los dispositivos conectados a la internet, la cantidad de informacion sigue creciendo.
 
 ### No es Business Intelligence:
 
