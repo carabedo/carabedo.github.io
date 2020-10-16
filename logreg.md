@@ -4,8 +4,7 @@ title: Regresion Logistica
 ---
 
 
-
-Creo datos de una sola variable y de dos clases,cada clase sera un distrubucion a la que le puedo cambiar el sigma (std) y el mu (center)
+Miremos un problema simple de clasificacion, donde tengo datos con una sola variable explicativa y mi variable objetivo a predecir puede ser de dos clases.
 
 
 ```python
@@ -16,17 +15,17 @@ x, y = make_blobs(n_samples=50, centers=np.array([1,3]).reshape(-1, 1), n_featur
 
 
 
-
-
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/fig0.html" height="525" width="100%"></iframe>
 
+Visualizando los datos, nos damos cuenta que no es lo eficiente ajustar esto con una recta, necesitamos algo un poco mas sofisticado. Una funcion que nos puede servir es la funcion sigmoide:
 
 
 
+Como en la regresion lineal, debemos definir una funcion de costo para mis parametros y minizarla utilizando algun metodo iterativo como es el caso de descenso por gradiente. De esta manera encontraremos los parametros de la funcion sigmoide que mejor describan mis datos.
 
 ## Regresion Logistica desde 0
 
-Escribo mi modelo, creo una clase y le doy el mismo formato que las clases de SKLEARN (con los metodos .fit, .predict)
+Podemos implementar lo que acabo de comentar creando una clase de python, dandole el mismo formato que las clases de SKLEARN (con los metodos .fit, .predict):
 
 
 ```python
@@ -105,6 +104,8 @@ class logisticreg:
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()                
 ```
 
+Ahora podemos ver como van cambiando los parametros de la funcion sigmoide a medida que vamos iterando la minizacion de la funcion de costo:
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=900 width=750 ></iframe>
 
+Como se ve para la iteracion i=100000, la sigmoide se ajusta muy bien a los datos, lo que nos permite predecir a que clase pertenece una nueva observacion.
