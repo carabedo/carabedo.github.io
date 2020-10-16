@@ -3,6 +3,7 @@ layout: page
 title: Regresion Logistica
 ---
 
+<br>
 
 Miremos un problema simple de clasificacion, donde tengo datos con una sola variable explicativa y mi variable objetivo a predecir puede ser de dos clases.
 
@@ -24,6 +25,7 @@ Visualizando los datos, nos damos cuenta que no es lo eficiente ajustar esto con
 Como en la regresion lineal, debemos definir una funcion de costo para mis parametros y minizarla utilizando algun metodo iterativo como es el caso de descenso por gradiente. De esta manera encontraremos los parametros de la funcion sigmoide que mejor describan mis datos.
 
 ## Regresion Logistica desde 0
+<br>
 
 Podemos implementar lo que acabo de comentar creando una clase de python, dandole el mismo formato que las clases de SKLEARN (con los metodos .fit, .predict):
 
