@@ -19,7 +19,7 @@ Tal vez es mas facil decir que NO es data science.
 
 ### No es algo nuevo:
 
-Si bien hoy todo el mundo habla de data science, machine learning, inteligencia artificial como la solucion a todo. Data science es un rejunte de años y años de investigacion en el desarrollo de metodos y herramientas estadisticas. 
+Si bien hoy todo el mundo habla de data science, machine learning, inteligencia artificial como la nueva solucion a todo. Data science es un rejunte de años y años de investigacion en el desarrollo de metodos y herramientas estadisticas. 
 
 * Cuadrados minimos (1805)
 * Knn (1967)
