@@ -1,11 +1,11 @@
 ---
 layout: page
-title: print('Hola!')
+title: Que es Data science?
 ---
 
 
 
-# Que es Data science?
+
 
 <br>
 
