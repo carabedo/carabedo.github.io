@@ -21,12 +21,12 @@ Tal vez es mas facil decir que NO es data science.
 
 Si bien hoy todo el mundo habla de data science, machine learning, inteligencia artificial como la nueva solucion a todo. Data science es un rejunte de años y años de investigacion en el desarrollo de metodos y herramientas estadisticas. 
 
-* Cuadrados minimos (1805)
-* Knn (1967)
+* [Cuadrados minimos](https://en.wikipedia.org/wiki/Least_squares) (1805)
+* [Knn](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (1967)
 * Random Forest (1995)
-* Xgboost (2014)
+* [Xgboost](https://xgboost.readthedocs.io/en/latest/) (2014)
 * Lightgbm (2017)
-* Catboost (2017)
+* [Catboost](https://catboost.ai/) (2017)
 * Yolo 3 (2018)
 * GPT-3 (2020)
 
