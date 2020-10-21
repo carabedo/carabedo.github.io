@@ -11,6 +11,9 @@ title: Links
 
 ## Dev
 
+
+[Advanced Requests](https://es.python-requests.org/es/latest/user/advanced.html)
+
 [Bokeh en github pages](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/)
 
 [Tags y categorias en jekyll](http://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
