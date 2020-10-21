@@ -7,7 +7,7 @@ title: Links
 ## Features Engineering
 
 [One-hot vs get_dummies](https://inmachineswetrust.com/posts/drop-first-columns/)
-
+[Feature Union](https://michelleful.github.io/code-blog/2015/06/20/pipelines/)
 
 ## Dev
 
