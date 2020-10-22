@@ -11,6 +11,8 @@ title: Links
 
 ## Dev
 
+[30 days of JS](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
 [newscrap](https://newspaper.readthedocs.io/en/latest/)
 
 [Advanced Requests](https://es.python-requests.org/es/latest/user/advanced.html)
