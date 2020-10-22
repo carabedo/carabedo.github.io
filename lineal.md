@@ -282,6 +282,6 @@ Imagino que despues de todos estos ejemplos, estan convencidos de lo necesario q
 Aca una playlist de youtube con algunos conceptos basicos del algebra lineal:
 
 
-[](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[aca](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
