@@ -22,7 +22,9 @@ Lo guardamos en un archivo.py y para ejecutarlo:
 ```bash
 streamlit run archivo.py
 ``` 
-Luego desde nuestro navegador vemos nuestro mensaje, si bien esto es lo mas deprimente que vieron en la semana, streamlit tiene una lista larga de widgets disponibles [aca](https://docs.streamlit.io/api.html). De manera de que podemos en esta pagina web mostrar graficos que interactueen con widgets como: slides, multiplechoice, inputs de todo tipo. Asi podremos con una syntasis muy sencilla generar una interfaz web para que nosotros o cualquier persona con un navegador pueda interactuar con nuestros complejos modelos de machine learning.
+Luego desde nuestro navegador vemos nuestro mensaje, si bien esto es lo mas deprimente que vieron en la semana, streamlit tiene una lista larga de widgets disponibles [aca](https://docs.streamlit.io/api.html). De manera de que podemos en esta pagina web mostrar graficos que interactueen con widgets como: slides, multiplechoice, inputs de todo tipo. 
+
+Con una syntasis muy sencilla generar una interfaz web para que nosotros o cualquier persona con un navegador pueda interactuar con nuestros complejos modelos de machine learning.
 
 Hasta aca todo perfecto, pero hay un detalle... todo eso funciona de manera local, para poder tenerlo en funcionamiento online falta algo mas.
 
