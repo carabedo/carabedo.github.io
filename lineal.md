@@ -278,3 +278,10 @@ En el fondo estas redes neuronales son representadas como matrices, vectores y t
 
 Imagino que despues de todos estos ejemplos, estan convencidos de lo necesario que es saber algebra lineal. El lenguaje basico detras de todas las ideas de machine learning son los vectores matricas y transformaciones lineales. Sin esto, es muy dificil y menos provechosa cualquier texto o clase de ML. 
 
+
+Aca una playlist de youtube con algunos conceptos basicos del algebra lineal:
+
+
+[](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
