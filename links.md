@@ -11,6 +11,7 @@ title: Links
 
 ## Dev
 
+[newscrap](https://newspaper.readthedocs.io/en/latest/)
 
 [Advanced Requests](https://es.python-requests.org/es/latest/user/advanced.html)
 
