@@ -8,6 +8,9 @@ title: About
 
 
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/carabedo/">
+<img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+</a>
+
   
 Hola! Soy Fernando, fisico e investigador en la Comision Nacional de Energia Atomica, me dedico a la simulacion y modelado de ensayos no destructivos.
 Tambien soy docente de fisica en la Facultad de Exactas de la UBA y docente de data science en Digital House.
@@ -18,7 +21,5 @@ Actualmente estoy investigando implementaciones de machine learning e inteligenc
 
   
   
-<img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-</a>
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/carabedo)
