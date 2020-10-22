@@ -7,10 +7,17 @@ title: About
 
 
 
-
-Hola! Mi nombre es Fernando, soy fisico e investigador en la Comision Nacional de Energia Atomica, me dedico a la simulacion y modelado de ensayos no destructivos. Tambien soy docente de fisica en la Facultad de Exactas de la UBA y docente de data science en Digital House.
-
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/carabedo/">
+  
+Hola! Soy Fernando, fisico e investigador en la Comision Nacional de Energia Atomica, me dedico a la simulacion y modelado de ensayos no destructivos.
+Tambien soy docente de fisica en la Facultad de Exactas de la UBA y docente de data science en Digital House.
+
+Actualmente estoy investigando implementaciones de machine learning e inteligencia artificial para la Gestión de Vida de Instalaciones Nucleares. En mis tiempos libres me dedico al NLP para el analisis de medios y redes sociales.
+
+
+
+  
+  
 <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 </a>
 
