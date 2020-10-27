@@ -47,7 +47,9 @@ El marketing que tiene data science le juega en contra, todos creen que data sci
 
 Para extraer el tipo de información utilizable que se necesita en una empresas, ademas de la teoria matematica se necesita una amplia experiencia en el negocio para la interpretacion final de los modelos y ni hablar de la ingenieria de features para saber que datos serviran y cuales no. Si bien es verdad que la implementación de herramientas predictivas y de aprendizaje automático puede compensar esto un poco. Aún asi se necesita científicos de datos con experiencia en el negocio que estén bien informados y tengan experiencia con el tipo de información específica de su negocio.
 
-**Esto es importantisimo, por mas conocimiento de la matematica y la programacion que uno tenga, no puede encarar solo un proyecto con datos de un area que no tenga experiencia.**
+```
+Esto es importantisimo, por mas conocimiento de la matematica y la programacion que uno tenga, no puede encarar solo un proyecto con datos de un area que no tenga experiencia.**
+```
 
 ### No es necesario ser un programador:
 
