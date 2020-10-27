@@ -58,7 +58,7 @@ Sí, hay muchos científicos de datos que saben cómo codear y trabajar con dife
 
 ### No es necesario ser un cientifico?:
 
-Si bien la ciencia de datos implica procesar números para obtener información interesante y, a menudo, implica el uso de herramientas estadísticas para comprender mejor los resultados. Para algunas tareas avanzadas como machine learning y el deep learning, un conocimiento avanzado de algebra lineal, calculo multivariable, estadistica y probabilidad ayudan. Esto no implica que las personas que no tienen un título en matemáticas o estadística no puedan convertirse en científicos de datos expertos.
+Para algunas tareas avanzadas en data science como machine learning y el deep learning, un conocimiento avanzado de algebra lineal, calculo multivariable, estadistica y probabilidad ayudan. Esto no implica que las personas que no tienen un título en matemáticas o estadística no puedan convertirse en científicos de datos.
 
 Hoy en día, el mercado se enfrentan a una grave escasez de profesionales de datos capaces de aprovechar los datos para obtener información empresarial útil. Esto ha llevado al surgimiento de científicos de datos 'blandos', es decir, profesionales que no hayan tenido una formacion 'dura' en matematica o ciencia ( matematicos, computologos, fisicos, etc) , pero que pueden usar las herramientas y técnicas de ciencia de datos para crear modelos de datos eficientes. Estos científicos de datos si bien no son expertos en estadísticas y matemáticas, conocen las herramientas de adentro hacia afuera, hacen las preguntas correctas y tienen una intuicion acertada de los conceptos matematicos detras de las herramientas.
 
