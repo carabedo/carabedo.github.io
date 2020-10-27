@@ -1,0 +1,61 @@
+---
+layout: page
+title: Que es Data Science?
+---
+
+
+
+
+
+<br>
+
+![](https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png?format=750w)
+
+
+> ser un data scientist es ser un artesano del descubrimiento de conocimiento
+                                              
+
+
+Tal vez es mas facil decir que NO es data science.
+
+<br>
+
+## Que NO es Data Science?
+
+### No es algo nuevo:
+
+Si bien hoy todo el mundo habla de data science, machine learning, inteligencia artificial como la nueva solucion a todo. Data science es un rejunte de años y años de investigacion en el desarrollo de metodos y herramientas estadisticas. 
+
+* [Cuadrados minimos](https://en.wikipedia.org/wiki/Least_squares) (1805)
+* [Knn](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (1967)
+* Random Forest (1995)
+* [Xgboost](https://xgboost.readthedocs.io/en/latest/) (2014)
+* Lightgbm (2017)
+* [Catboost](https://catboost.ai/) (2017)
+* Yolo 3 (2018)
+* GPT-3 (2020)
+
+Pero entonces, por que aparece recien? La respuesta es el volumen de los datos en las ultimas decadas la aculumacion y produccion exponencial de datos, permite utilizar todas esas herramientas estadisticas en problemas concretos. Data Science aparace por la necesidad de administrar y entender toda esta informacion. Con el aumento de los dispositivos conectados a la internet, la cantidad de informacion sigue creciendo.
+
+### No es Business Intelligence:
+
+BI y la ciencia de datos a menudo se confunden. Sin embargo, no son sinónimos. La BI usa datos, sí, pero se trata más de los aspectos operativos y contextuales de su organización. A través de este proceso, responde preguntas como qué, cuándo, cómo o quién. Por ejemplo: aprender más sobre sus clientes y su audiencia. Por otro lado, la ciencia de datos tiene más que ver con el **análisis predictivo**. El objetivo es el descubrimiento de conocimiento, de patrones latentes en los datos que permitan describir aspectos de un sistema que antes se desconocian. Por ejemplo, la ciencia de datos puede ayudarlo a comprender por qué sucedió algo o cuándo volverá a ocurrir. Además, la ciencia de datos puede responder qué sucederá si se  cambian varios aspectos de un proceso o plan de negocios.
+
+Por esta razón, la ciencia de datos se trata más de minería de datos y análisis estadístico o cuantitativo. También es útil para el modelado predictivo, las pruebas multivariadas y la planificación de procesos. 
+
+### No es magia:
+
+El marketing que tiene data science le juega en contra, todo creen que data science es magia, la solucion a todos los problemas. Ni siquiera es una ciencia en si misma, es una interdisciplina que toma herramientas de la Matemática, estadísticas, herramientas de análisis y Computacion. Ademas es todo un arte cuando se la implementa en problemas reales. Para extraer el tipo de información utilizable que se necesita en una empresas, ademas de la teoria matematia se necesita una amplia experiencia en el negocio en la interpretacion de los datos. Si bien es verdad que la implementación de herramientas predictivas y de aprendizaje automático puede compensar esto un poco. Aún  asi se necesita científicos de datos reales para hacer la mayor parte del trabajo, que estén bien informados y tengan experiencia con el tipo de información específica de su negocio.
+
+Esto es importantisimo, por mas conocimiento de la matematica y la programacion que uno tenga, no puede encarar solo un proyecto con datos de un area que no tenga experiencia.
+
+### No es necesario ser un programador:
+
+Sí, hay muchos científicos de datos que saben cómo codear y trabajar con diferentes lenguajes de programacion. Pero, no significa que sean expertos en una variedad de temas. Actualmente hay librerias en diferentes lenguajes muy bien implementadas y documentadas. Por ejemplo, en python **sklearn** la popularidad de este lenguaje permite que exista muchisima documentacion al respecto y una gran comunidad detras. Haciendo que sea muy sencillo implementar modelos y lidiar con los problemas que puedan aparecer en el camino. Nada que googleando 10 minutos se pueda resolver, sin necesidad de ser un experto programador en C++. 
+
+### No es necesario ser un cientifico:
+
+
+Si bien la ciencia de datos implica procesar números para obtener información interesante y, a menudo, implica el uso de herramientas estadísticas para comprender mejor los resultados. Para algunas tareas avanzadas como machine learning y el deep learning, un conocimiento avanzado de algebra lineal, calculo multivariable, estadistica y probabilidad ayudan. Esto no implica que las personas que no tienen un título en matemáticas o estadística no puedan convertirse en científicos de datos expertos.
+
+Hoy en día, el mercado se enfrentan a una grave escasez de profesionales de datos capaces de aprovechar los datos para obtener información empresarial útil. Esto ha llevado al surgimiento de científicos de datos 'blandos', es decir, profesionales que no hayan tenido una formacion dura en matematica o ciencia ( matematicos, computologos, fisicos, etc) , pero que pueden usar las herramientas y técnicas de ciencia de datos para crear modelos de datos eficientes. Estos científicos de datos si bien no son expertos en estadísticas y matemáticas, conocen las herramientas de adentro hacia afuera, hacen las preguntas correctas y tienen una intuicion acertada de los conceptos matematicos detras de las herramientas.
