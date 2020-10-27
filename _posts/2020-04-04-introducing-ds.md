@@ -61,8 +61,8 @@ Hoy en día, el mercado se enfrentan a una grave escasez de profesionales de dat
 
 Ojo! Si uno es un 'blandito' tiene que hacer el esfuerzo e invertir tiempo en ponerse al dia con la matematica. Es realmente necesaria una vision integral de las herramientas de machine learning para poder tener una solida formacion. Esto es solo posible si al menos una vez uno se sienta con un lapiz y papel a convencerse de conceptos basicos como Gradientes, Autovalores, Autovectores, Transformaciones Lineales, etc... 
 
-Es decir,es fuertemente recomendable algun cursito gratis de algebra lineal y uno de calculo multivariable antes de meterse al mundo de los datos. Esta es una de las mejores inversiones que se puede hacer, sera mucho mas disfrutable y aprovechable cualquier curso de data science si uno/una lo encara con una base matematica solida.
+Es decir, es fuertemente recomendable algun cursito gratis de algebra lineal y uno de calculo multivariable antes de meterse al mundo de los datos. Esta es una de las mejores inversiones que se puede hacer, sera mucho mas disfrutable y aprovechable cualquier curso de data science si uno/una lo encara con una base matematica solida.
 
 
-[curso gratuito de coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
+[curso matematica para ml](https://www.coursera.org/specializations/mathematics-machine-learning)
 
