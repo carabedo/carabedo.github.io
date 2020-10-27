@@ -56,7 +56,7 @@ no puede encarar solo/sola un proyecto con datos de un area que no tenga experie
 
 Sí, hay muchos científicos de datos que saben cómo codear y trabajar con diferentes lenguajes de programacion. Pero, cuan necesario es realmente eso?. Actualmente hay librerias en diferentes lenguajes muy bien implementadas y documentadas. Por ejemplo, en python **sklearn** la popularidad de este lenguaje permite que exista muchisima documentacion al respecto y una gran comunidad detras. Haciendo que sea muy sencillo implementar modelos y lidiar con los problemas que puedan aparecer en el camino. Nada que googleando 10 minutos no se pueda resolver, sin necesidad de ser un experto programador en C++. 
 
-### No es necesario ser un cientifico:
+### No es necesario ser un cientifico?:
 
 Si bien la ciencia de datos implica procesar números para obtener información interesante y, a menudo, implica el uso de herramientas estadísticas para comprender mejor los resultados. Para algunas tareas avanzadas como machine learning y el deep learning, un conocimiento avanzado de algebra lineal, calculo multivariable, estadistica y probabilidad ayudan. Esto no implica que las personas que no tienen un título en matemáticas o estadística no puedan convertirse en científicos de datos expertos.
 
