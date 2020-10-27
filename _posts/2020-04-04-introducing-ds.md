@@ -69,3 +69,4 @@ Es decir, es fuertemente recomendable algun cursito gratis de algebra lineal y u
 
 [curso matematica para ml](https://www.coursera.org/specializations/mathematics-machine-learning)
 
+[Aca](https://carabedo.github.io/lineal.html) un articulo donde cuento donde aparece el algebra lineal en machine learning.
