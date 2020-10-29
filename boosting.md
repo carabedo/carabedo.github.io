@@ -67,15 +67,15 @@ Además pueden ser poco robustos. Un pequeño cambio en los datos puede generar 
 El problema de un modelo con un solo arbol de decision es el overfitting, una solucion a esto es usar un ensamble de arboles. Si ajustamos 50 arboles de decision y luego promediamos sus resultados podremos evitar el overfitting. A esto se lo conoce como bagging, otra manera de realizar estos ensambles es boosting.
 Boosting consiste en entrenar varios modelos de manera secuencial, entrenando un nuevo modelo sobre los datos que menor permormance tuvo el modelo anterior. 
 
-## adaboost
+## Adaboost
 
 
-## gradient boost
+## Gradient boost
 
 
-### xgboost
+### Xgboost
 
-### lightbm
+### Lightbm
 
-### catboost
+### Catboost
 
