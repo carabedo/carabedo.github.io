@@ -31,9 +31,13 @@ Se puede ver que una regresion lineal performa muy mal, ahora ajustemos estos da
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_5.png)
 
-Los
+Los puntos rojos representan el ajuste por el arbol de decision, parecen existir 4 rectas horizontales que ajustan los datos, hemo particionado en 4 regiones la variable x. Para cada region se le asigno un valor de la variable y. Esto permitio representar de mejor manera el comportamiento no lineal de los datos. Pero, que signifca un arbol de dos niveles? Por que solo hay cuatro regiones?
+
+Aqui el grafico del arbol de decision propiamente dicho, se ve el proceso en el que fue creado. Desde una raiz se van abriendo ramas y terminan en hojas. Las hojas son las regiones finales, hay un nivel por cada vez que se particionaron regiones.
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_6.png)
+
+En las hojas, entran nuestros datos, son las 4 regiones que vemos en el grafico del ajuste. Tanto como el nivel y la cantidad de hojas son hiperparametros de los modelos de arbol de decision. 
 
 #### Como elegimos y armamos las regiones?
 
