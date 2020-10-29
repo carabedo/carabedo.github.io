@@ -12,7 +12,9 @@ Un arbol de decision es un metodo no parametrico de ajuste, es decir no busca un
 Por ejemplo:
 
 Un ejemplo de clasificacion en dos variables y con estos datos:
-![]('https://github.com/carabedo/carabedo.github.io/blob/main/assets/img/dt_0.png')
+
+
+![]('https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_0.png')
 
 Iterativamente vamos particionando el espacio de variables de manera de elegir las regiones que mejor ajusten a los datos.
 
