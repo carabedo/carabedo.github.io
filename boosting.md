@@ -29,7 +29,7 @@ Veamos como se construye con un ejemplo de regresion en una variable, tenemos es
 
 Se puede ver que una regresion lineal performa muy mal, ahora ajustemos estos datos con un arbol de decision de 2 niveles:
 
-![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_4.png)
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_5.png)
 
 
 
