@@ -15,11 +15,11 @@ Un ejemplo de clasificacion en dos variables y con estos datos:
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_0.png)
 
-![]('https://raw.githubusercontent.com/carabedo/carabedo.github.io/main/assets/img/dt_0.png')
 
 Iterativamente vamos particionando el espacio de variables de manera de elegir las regiones que mejor ajusten a los datos.
 
 ![]('https://github.com/carabedo/carabedo.github.io/blob/main/assets/img/dt_1.png')
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_1.png)
 
 ## por que boosting?
 
