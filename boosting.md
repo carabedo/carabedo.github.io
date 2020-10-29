@@ -3,12 +3,20 @@ layout: page
 title: Boosting
 ---
 
-En este articulo voy a explicar boosting, un metodo de aprendizaje por ensambles.
+En este articulo voy a dar una introduccion al aprendizaje por ensambles con principal foco en boosting. Partamos de la base de modelos sencillos como regresion lineal o logistica como estandares para la resolucion de problemas de regresion o clasificacion. Algo que nos era dificil con estos modelos era explicar comportamientos no lineales, uno debe hacer una ingeneriera de features para incorporar interacciones no lineales entre las variables. Un metodo de ajuste que funciona muy bien con las no linealidades es el arbol de decision.
 
 
-## por que arboles de decision?
+## Arboles de decision:
 
-Si uno quiere capturar comportamientos no lineales dentro de un sistema, una opcion es el uso de arboles de decision, un modelo no parametrico y no lineal. Ademas de ser no lineal permite una facil interpretacion.
+Un arbol de decision es un metodo no parametrico de ajuste, es decir no busca una relacion parametrica entre la variable target y las variables explicativas $ y=f(x)$. Consiste en la particion iterativa del espacio de variables asignando un valor constante a cada region. Su construccion es bastante intuitiva asi como su interpretacion visual. 
+Por ejemplo:
+
+Un ejemplo de clasificacion en dos variables y con estos datos:
+![]('/assets/img/dt_0.png')
+
+Iterativamente vamos particionando el espacio de variables de manera de elegir las regiones que mejor ajusten a los datos.
+
+![]('/assets/img/dt_1.png')
 
 ## por que boosting?
 
