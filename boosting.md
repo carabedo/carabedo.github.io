@@ -13,7 +13,7 @@ Por ejemplo:
 
 Un ejemplo de clasificacion en dos variables y con estos datos:
 
-![](https://github.com/muydipalma/home/raw/v3/0.png)
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_0.png)
 
 ![]('https://raw.githubusercontent.com/carabedo/carabedo.github.io/main/assets/img/dt_0.png')
 
