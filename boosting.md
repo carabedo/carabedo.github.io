@@ -8,7 +8,8 @@ En este articulo voy a dar una introduccion al aprendizaje por ensambles con pri
 
 ## Arboles de decision:
 
-Un arbol de decision es un metodo no parametrico de ajuste, es decir no busca una relacion parametrica entre la variable target y las variables explicativas $ y=f(x)$. Consiste en la particion iterativa del espacio de fases asignando un valor constante a cada region. Su construccion es bastante intuitiva asi como su interpretacion visual. 
+Un arbol de decision es un metodo no parametrico de ajuste, es decir no busca una relacion funcional $ y=f(x)$ entre la variable target y las variables explicativas. Consiste en la particion iterativa del espacio de fases asignando un valor constante a cada region de manera tal de poder predecir el valor de nuevas observaciones que caigan en esta region. Su construccion es bastante intuitiva asi como su interpretacion visual. 
+
 Por ejemplo:
 
 Un ejemplo de clasificacion en dos variables y con estos datos:
@@ -23,6 +24,27 @@ Iterativamente vamos particionando el espacio de fases de manera de elegir las r
 #### Como elegimos y armamos las regiones?
 
 Este es un proceso iterativo, se utiliza alguna metricas para decidir en cada paso una particion binaria en alguna variable. Ademas es jerarquico, en cada iteraccion se hace una eleccion de variable y de threshold que maximice el error cuadratico medio.
+
+¿Cómo construye la computadora un árbol de regresión?
+El enfoque ideal sería que la computadora considere todas las particiones posibles del espacio de atributos. Sin embargo esto es computacionalmente inviable, por lo que en su lugar se utiliza un algorítmo voraz (greedy) de división binaria recursiva:
+
+Comenzar en la raíz del árbol.
+Para cada atributo, examinar cada punto de corte posible y elegir el atributo y punto de corte de manera que el árbol resultante de hacer la división tenga el menor error cuadrático medio (ECM).
+Repetir el proceso para las dos ramas resultantes y nuevamente hacer una sola división (en cada rama) para minimizar el ECM.
+Repitir este proceso hasta que se cumpla un criterio de detención.
+¿Cómo sabe cuándo parar?
+
+Podríamos definir un criterio de detención, como la profundidad máxima del árbol o el número mínimo de muestras en la hoja.
+También podríamos hacer crecer el árbol grande y luego "podarlo" utilizando algún método de poda como "cost complexity pruning"
+¿Como decidir que división es la mejor?
+
+Una forma de decidir cual es la mejor división es calcular la ganancia en la reduccion del error cuadrático medio, si se aplica la división candidata.
+
+$$
+\Delta = ECM(\text{padre}) - \sum_{j \in \text{hijos}}\frac{N_j}{N}ECM(\text{hijo}_j)
+$$
+
+El objetivo es buscar la maxima  $\Delta$, donde  ECM es el Error Cuadrático Medio,  $N_j$  es el número de registros en el nodo hijo j  y  N  es el número de registros en el nodo padre.
 
 #### Por que usar arboles de decision?
 
