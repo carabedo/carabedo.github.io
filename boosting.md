@@ -10,9 +10,9 @@ En este articulo voy a dar una introduccion al aprendizaje por ensambles con pri
 
 Un arbol de decision es un metodo no parametrico de ajuste, es decir no busca una relacion funcional $ y=f(x)$ entre la variable target y las variables explicativas. Consiste en la particion iterativa del espacio de fases asignando un valor constante a cada region de manera tal de poder predecir el valor de nuevas observaciones que caigan en esta region. Su construccion es bastante intuitiva asi como su interpretacion visual. 
 
-Por ejemplo:
 
-Un ejemplo de clasificacion en dos variables y con estos datos:
+
+Un ejemplo de clasificacion en dos variables:
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_0.png)
 
@@ -20,6 +20,18 @@ Un ejemplo de clasificacion en dos variables y con estos datos:
 Iterativamente vamos particionando el espacio de fases de manera de elegir las regiones que mejor ajusten a los datos.
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_1.png)
+
+
+
+Veamos como se construye con un ejemplo de regresion en una variable, tenemos estos datos con un compartamiento fuertemente no lineal:
+
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_2.png)
+
+Se puede ver que una regresion lineal performa muy mal, ahora ajustemos estos datos con un arbol de decision de 2 niveles:
+
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_4.png)
+
+
 
 #### Como elegimos y armamos las regiones?
 
