@@ -31,7 +31,9 @@ Se puede ver que una regresion lineal performa muy mal, ahora ajustemos estos da
 
 ![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_5.png)
 
+Los
 
+![](https://github.com/carabedo/carabedo.github.io/raw/main/assets/img/dt_6.png)
 
 #### Como elegimos y armamos las regiones?
 
