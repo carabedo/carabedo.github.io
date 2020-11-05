@@ -11,6 +11,8 @@ title: Links
 
 ## Dev
 
+[SQLite](https://stackabuse.com/a-sqlite-tutorial-with-python/)
+
 [30 days of JS](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
 [newscrap](https://newspaper.readthedocs.io/en/latest/)
