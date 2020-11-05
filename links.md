@@ -10,6 +10,7 @@ title: Links
 [Feature Union](https://michelleful.github.io/code-blog/2015/06/20/pipelines/)
 
 ## Dev
+[pybot in awslambda](https://dev.to/jeannienguyen/building-a-twitter-bot-with-python-and-aws-lambda-27jg)
 
 [SQLite](https://stackabuse.com/a-sqlite-tutorial-with-python/)
 
