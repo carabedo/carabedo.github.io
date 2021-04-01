@@ -44,9 +44,9 @@ La biblia del machine learning, toda la matematica detras de cada algoritmo. De 
 
 <br>
 
-<img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
+<img src="https://raw.githubusercontent.com/JWarmenhoven/ISLR-python/master/Notebooks/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
 
-Se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+Se puede descargar gratuitamente desde [aca](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
 Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python: [Repo](https://github.com/JWarmenhoven/ISLR-python)
 
