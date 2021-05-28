@@ -31,3 +31,7 @@ title: Links
 ## NLP
 
 [Analisis Semantico de los sueños](https://sci-hub.st/https://www.sciencedirect.com/science/article/abs/pii/S1053810017301034)
+
+## Q&A
+
+[Clase 26: Por que fitear un knn?](https://stats.stackexchange.com/questions/349842/why-do-we-need-to-fit-a-k-nearest-neighbors-classifier)
