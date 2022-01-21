@@ -4,25 +4,12 @@ title: Clases
 ---
 
 
-## regularizacion
++ [regularizacion](https://carabedo.github.io/regularizacion/)
 
++ [nlp](https://carabedo.github.io/nlp/)
 
-https://carabedo.github.io/regularizacion/
++ [apis](https://carabedo.github.io/apis/)
 
++ [deploy](https://carabedo.github.io/deploy)
 
-## nlp 
-
-https://carabedo.github.io/nlp/
-
-
-## apis
-
-https://carabedo.github.io/apis/
-
-## deploy
-
-https://carabedo.github.io/deploy
-
-## introredes
-
-https://carabedo.github.io/introredes
++ [introredes](https://carabedo.github.io/introredes)
