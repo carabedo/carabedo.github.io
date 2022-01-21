@@ -47,7 +47,7 @@ Para crear la maquia virtual en heroku, tenemos que especificar la version de py
 
 Ejemplo del contenido de estos archivos esta en:
 
-https://github.com/carabedo/geopami
+https://github.com/carabedo/properatti
 
 ```bash
 app_st.py
@@ -60,4 +60,4 @@ create_config.sh
 
 Esta app esta funcionando en:
 
-[geopami.herokuapp.com](https://geopami.herokuapp.com/)
+[properatti.herokuapp.com](https://properatti.herokuapp.com/)
