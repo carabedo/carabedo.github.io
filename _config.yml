@@ -3,7 +3,7 @@ title: data,math,code
 subtitle: carabedo
 email: carabedo@gmail.com
 description: Sitio personal con mucho material sobre machine learning y web development.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 
