@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <ul class="actions">
+                    <li><a href="#one" class="button next scrolly"></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One aca viene el mosaico de cosas-->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>About:</h2>
+                </header>
+                <p>Hola! Soy Fernando, fisico e investigador en la Comision Nacional de Energia Atomica, me dedico a la simulacion y modelado de ensayos no destructivos. Tambien soy docente de fisica en la Facultad de Exactas de la UBA y docente de data science en Digital House.
+
+                    Actualmente estoy investigando implementaciones de machine learning e inteligencia artificial para la Gestión de Vida de Instalaciones Nucleares. En mis tiempos libres me dedico al NLP para el analisis de medios y redes sociales.</p>
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

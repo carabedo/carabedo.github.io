@@ -1,18 +1,33 @@
-# Setup
-url:              https://carabedo.github.io
-paginate:         1
-baseurl: ''
-heading_anchors: true
-
-# About and contact
+# site settings
+title: data,math,code
+subtitle: carabedo
+email: carabedo@gmail.com
+description: Sitio personal con mucho material sobre machine learning y web development.
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
-  name:           'Fernando Carabedo'
-  url:            https://twitter.com/muydipalma
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
 
-# Custom vars
-version:          3.0.0
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+
+socials:
+  GitHub: https://github.com/carabedo
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
